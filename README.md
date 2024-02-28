@@ -1,6 +1,6 @@
 <h1 align="center">StreamingSpark</h1>
 
-<h3 align="center">A platform to stream free videos that allows our members to study from recorded lectures without commercials on any desktop. The implementation of this project helps both the students and the teachers. The teachers can upload their classroom recorded lectures on to the website by using their unique ID and the students can gain access to these lectures at ease.</h3>
+<h3 align="center">A platform to stream free videos that allows our members to study from recorded lectures without commercials on any desktop. The implementation of this project helps both the students and the teachers. The teachers can upload their classroom recorded lectures on to the website by using their uniqueID and the students can gain access to these lectures at ease.</h3>
 
 <br />
 
@@ -58,7 +58,7 @@ A web-based application to provide students recorded video lectures to learn fro
   </tr>
   <tr>
     <td><img src="https://i.ibb.co/tsYj6qd/Picture5.png"/></td>
-    <td><img src="https://i.ibb.co/mTQWm7k/Picture6"/></td>
+    <td><img src="https://i.ibb.co/mTQWm7k/Picture6.png"/></td>
   </tr>
   <tr>
     <td><img src="https://i.ibb.co/Q93jNMn/Picture7.png"/></td>
